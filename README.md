@@ -1,26 +1,25 @@
-FruitPriceReader-Project, `fruits.csv` dosyasından meyve isimlerini ve fiyatlarını okuyarak bunları sözlük formatında çıktı veren bir Python betiğidir. 
+# FruitPriceReader Project
+This Python script reads fruit names and their prices from the `fruits.csv` file and outputs them in the form of a Python dictionary.
 
-**Özellikler:**
+## Features
+- Reads fruit names and prices from the `fruits.csv` file.
+- Outputs the data as a Python dictionary.
 
-- `fruits.csv` dosyasındaki meyve isimlerini ve fiyatlarını okur.
-- Bu verileri bir Python sözlüğü olarak çıktı verir.
+## Technologies Used
+- Python
 
-**Kullanılan Teknolojiler:**
-
-- Python
-
-**Kurulum ve Kullanım:**
-
-1. Depoyu klonlayın:
-
+## Installation and Usage
+1. Clone the repository:
    ```bash
    git clone https://github.com/Busradeveci/FruitPriceReader-Project.git
    ```
 
-2. `main.py` dosyasını çalıştırın:
-
+2. Run the `main.py` script:
    ```bash
    python main.py
    ```
 
-3. Program, `fruits.csv` dosyasındaki verileri okuyacak ve meyve isimleri ile fiyatlarını içeren bir sözlük oluşturacaktır.
+3. The program will read the data from the `fruits.csv` file and create a dictionary containing the fruit names and their prices.
+
+## Contributing
+To contribute, fork the repository and submit a pull request with your changes.
